@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="400" src="https://i.postimg.cc/3NWPZg8T/850477fed08bfe98598082bcd309ce70.gif" alt="my banner"></a>
+  <img width="800" height="400" src="https://i.postimg.cc/2jLyd5G4/banner-github.gif" alt="my banner"></a>
 </p>
 
 <h1 align="center">Hello 👋, I'm Pranjit Kakoti</h1>
